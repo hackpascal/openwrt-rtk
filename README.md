@@ -1,2 +1,12 @@
 # openwrt-rtk
-Openwrt for realtek
+==============
+
+This is a port openwrt for realtek - the firmware used by all realtek 819x routers. 
+
+At this time, the supported devices are:
+
+- TOTOLINK N601RT
+
+Firmware builds can be downloaded from the official download site:
+
+https://www.wanyor.com/openwrt-rtk/download
