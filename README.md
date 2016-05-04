@@ -1,7 +1,7 @@
 # openwrt-rtk
 ==============
 
-This is a port openwrt for realtek - the firmware used by all realtek 819x routers. 
+This is a porting openwrt for realtek - the firmware used by all realtek 819x routers. 
 
 At this time, the supported devices are:
 
